@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://minea-review.github.io/sitemap.xml

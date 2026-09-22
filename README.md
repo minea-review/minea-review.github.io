@@ -20,4 +20,5 @@ If you sell physical products and your day starts with scrolling Meta ads, Minea
 
 *This is an independent review page and is not affiliated with, endorsed by, or operated by Minea; all trademarks belong to their respective owners.*
 
+
 _Last reviewed: 2026-09-22_
